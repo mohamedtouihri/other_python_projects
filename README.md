@@ -30,7 +30,7 @@
 - If you encounter any issues during the setup, please check the error messages and ensure you have a stable internet connection for downloading dependencies.
 - For further assistance, you can contact the project maintainer at [twihrimelek9@gmail.com].
 
-## Project Description
+## Projects Description
 
   - calculation_of_the_number_of_hours: This project calculates the total number of hours ,minutes and second.
   - driving_licence: This project sets conditions for allowing you to drive.
