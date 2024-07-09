@@ -32,8 +32,7 @@
 
 ## Project Description
 
-This project implements encryption and decryption functionalities in Python. The program allows users to encrypt and decrypt text using various algorithms.
-
+many mini project have difirent 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
