@@ -32,7 +32,14 @@
 
 ## Project Description
 
-many mini project have difirent 
+  - calculation_of_the_number_of_hours: This project calculates the total number of hours ,minutes and second.
+  - driving_licence: This project sets conditions for allowing you to drive.
+  - future_game: This project is a game that simulates future scenarios based on user choices.
+  - give_id: This project generates conditions for give id.
+  - guess_the_password: This project is a game where the user has to guess a secret password.
+  - the_coin_guessing_game: This project is a heads or tails game where the user has to guess the outcome of a coin flip.
+  - worker_accountability: This project calculates the area of the room and wage of the worker.
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
